@@ -242,7 +242,7 @@ Open `Model_Deployment.ipynb` and enter values in the widget:
 Click "Predict" — Output: Fraud or Not Fraud
 
 ![alt text](assets/ui_screenshot.png)
-![alt text](assets/graphs/ROC_curve.png)
+![alt text](assets/ROC_curve.png)
 ![alt text](assets/graphs/confusion_matrix.png)
 
 ## ❤️ Support
