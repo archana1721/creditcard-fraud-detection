@@ -175,12 +175,12 @@ git clone https://github.com/kaushikeemishra/credit-card-fraud-detection.git
 
 jupyter notebook
 
-## Screenshots
+<!-- ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
 
 ### 🖼️ ROC Curve
-![ROC Curve](assets/graphs/roc_curve.png)
+![ROC Curve](assets/ROC_curve.png)
 
 ### 🎯 Confusion Matrix
 ![Confusion Matrix](assets/graphs/confusion_matrix.png)
@@ -240,10 +240,6 @@ Open `Model_Deployment.ipynb` and enter values in the widget:
 - V12: -1.56
 
 Click "Predict" — Output: Fraud or Not Fraud
-
-![alt text](assets/ui_screenshot.png)
-![alt text](assets/ROC_curve.png)
-![alt text](assets/graphs/confusion_matrix.png)
 
 ## ❤️ Support
 Give this project a ⭐️ if you found it useful!
