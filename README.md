@@ -21,7 +21,7 @@ No external API used. All functionality is built with:
 👩‍💻 **Kaushikee Mishra**  
 BTech Student | AI/ML Enthusiast  
 Email: [kaushikeemishra1@gmail.com]  
-GitHub: [github.com/kaushikeemishra](https://github.com/kaushikeemishra)
+GitHub: [github.com/kaushikeemishra](https://github.com/archana1721)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -66,12 +66,6 @@ This project is a part of my growing ML portfolio.
 🚀 Passionate about AI/ML & building real-world intelligent systems.  
 Focused on impactful machine learning projects.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikee-mishra-3ba82b251)
-
-
-
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on machine learning
 
@@ -94,7 +88,7 @@ Install my-project with npm
     1. Clone the repository  
 ```
 ```bash
-   2. git clone https://github.com/kaushikeemishra/credit-card-fraud-detection.git
+   2. git clone https://github.com/archana1721/credit-card-fraud-detection.git
 ```
     Open Jupyter Notebook
 ```
@@ -170,7 +164,7 @@ Start the server
   npm run start
 ```
 
-git clone https://github.com/kaushikeemishra/credit-card-fraud-detection.git  
+git clone https://github.com/archana1721/credit-card-fraud-detection.git  
 
 
 jupyter notebook
